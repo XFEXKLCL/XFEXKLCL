@@ -1,17 +1,22 @@
-# Merhaba👋
+# Senden rica ediyorum, sen benim 👋
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/aa8dcfcd-4a93-4073-a9ed-b7e9b0d4e585" width="400"/>
 </div>
 
-## 🌟 BEN
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F70045&center=true&vCenter=true&width=600&lines=Water+is+beautiful;Rem+is+water;Therefore%2C+Rem+is+beautiful" alt="Typing SVG" />
+</div>
+
+## 🌟 Hakkımda
 
 - 🎮 Oyunlara **Türkçe yamalar** yapıyorum
 - 🔧 **Python, C++ ve CSS** kullanıyorum  
 - 💬 **Anime ve oyun yamaları** hakkında benimle konuşabilirsiniz
 - ⚡ **KonoSuba** hayranıyım
 
-## 🌐 İLETİŞİM
+## 🌐 Beni Takip Et
+
 <div align="center">
   <a href="https://instagram.com/ensraklcl">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -24,7 +29,7 @@
   </a>
 </div>
 
-## 🛠️ Kullandığım DİLLER
+## 🛠️ Kullandığım Teknolojiler
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
