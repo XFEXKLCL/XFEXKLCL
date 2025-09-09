@@ -1,15 +1,16 @@
 # Senden rica ediyorum, sen benim 👋
 
 <div align="center">
-  <img src="https://media.tenor.com/PWF0FQGKWMoAAAAC/megumin-konosuba.gif" width="400"/>
+  <img src="https://cdn.discordapp.com/attachments/123456789/konosuba-megumin.gif" width="400"/>
+  <!-- GIF görünmüyorsa GitHub Issues yöntemiyle kendi GIF linkinizi buraya yapıştırın -->
 </div>
 
 ## 🌟 Hakkımda
 
 - 🎮 Oyunlara **Türkçe yamalar** yapıyorum
 - 🔧 **Python, C++ ve CSS** kullanıyorum
-- 💬 **Anime. oyun ve Türkçe yamalar yaparım** hakkında benimle konuşabilirsiniz
-- ⚡ **KonoSuba, Re:Zero ve Classroom of the elite** hayranıyım
+- 💬 **anime ve oyun yamalar** hakkında benimle konuşabilirsiniz
+- ⚡ **KonoSuba** hayranıyım
 
 ## 🌐 Beni Takip Et
 
@@ -21,7 +22,7 @@
 
 </div>
 
-## 🛠️ Kullandığım Teknolojiler
+## 🛠️ Kullandığım Diller
 
 <div align="center">
 
