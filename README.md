@@ -15,9 +15,9 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/KULLANICI_ADINIZ)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DISCORD_LINKINIZ)
-[![Bluesky](https://img.shields.io/badge/Bluesky-00A8E8?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/KULLANICI_ADINIZ)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ensraklcl)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/xfexklcl)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xfexklcl)
 
 </div>
 
