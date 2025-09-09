@@ -1,7 +1,7 @@
 # I ask of thee, art thou ma 👋
 
 <div align="center">
-  <img src="BURAYA_GIF_LINKI_GELECEK" width="400"/>
+  <img src="https://imgur.com/a/1TrodFZ" width="400"/>
 </div>
 
 ## 🌟 Hakkımda
