@@ -10,10 +10,10 @@
 
 ## 🌟 BEN
 
-- 🎮 Oyunlara **Türkçe yamalar** yapıyorum
+- 🎮 Bazı Oyunlara **Türkçe yamalar** yapıyorum
 - 🔧 **Python, C++ ve CSS** kullanıyorum  
 - 💬 **Anime ve oyun yamaları** hakkında benimle konuşabilirsiniz
-- ⚡ **KonoSuba** hayranıyım
+- ⚡ **KonoSuba, Re:ZERO, ClassRoom Of The Elite ve Star VS. The Forces Evil** hayranıyım
 
 ## 🌐 İLETİŞİM
 <div align="center">
