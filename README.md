@@ -1,15 +1,15 @@
-# I ask of thee, art thou ma 👋
+# Senden rica ediyorum, sen benim 👋
 
 <div align="center">
-  <img src="BURAYA_GIF_LINKI_GELECEK" width="400"/>
+  <img src="https://media.tenor.com/PWF0FQGKWMoAAAAC/megumin-konosuba.gif" width="400"/>
 </div>
 
 ## 🌟 Hakkımda
 
-- 🔭 Şu anda **oyun geliştirme** üzerinde çalışıyorum
-- 🌱 **JavaScript ve Python** öğreniyorum
-- 💬 **anime ve kodlama** hakkında benimle konuşabilirsiniz
-- ⚡ **KonoSuba** hayranıyım
+- 🎮 Oyunlara **Türkçe yamalar** yapıyorum
+- 🔧 **Python, C++ ve CSS** kullanıyorum
+- 💬 **Anime. oyun ve Türkçe yamalar yaparım** hakkında benimle konuşabilirsiniz
+- ⚡ **KonoSuba, Re:Zero ve Classroom of the elite** hayranıyım
 
 ## 🌐 Beni Takip Et
 
@@ -25,9 +25,8 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
