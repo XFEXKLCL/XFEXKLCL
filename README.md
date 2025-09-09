@@ -1,7 +1,7 @@
 # I ask of thee, art thou ma 👋
 
 <div align="center">
-  <img src="https://imgur.com/a/1TrodFZ" width="400"/>
+  <img src="BURAYA_GIF_LINKI_GELECEK" width="400"/>
 </div>
 
 ## 🌟 Hakkımda
@@ -15,9 +15,9 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ensraklcl)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/xfexklcl)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xfexklcl)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ensraklcl)
+[![Discord](https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/xfexklcl)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xfexklcl)
 
 </div>
 
