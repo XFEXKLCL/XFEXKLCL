@@ -1,13 +1,12 @@
-# MERHABA 👋
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/aa8dcfcd-4a93-4073-a9ed-b7e9b0d4e585" width="400"/>
-</div>
+# SELAM 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F70045&center=true&vCenter=true&width=600&lines=Water+is+beautiful;Rem+is+water;Therefore%2C+Rem+is+beautiful" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/aa8dcfcd-4a93-4073-a9ed-b7e9b0d4e585" width="400"/>
+</div>
 ## 🌟 BEN
 
 - 🎮 Bazı Oyunlara **Türkçe yamalar** yapıyorum
