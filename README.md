@@ -16,19 +16,6 @@
 - 💬 **Anime ve oyun yamaları** hakkında benimle konuşabilirsiniz
 - ⚡ **KonoSuba, Re:ZERO, ClassRoom Of The Elite ve Star VS. The Forces Evil** hayranıyım
 
-## 🌐 İLETİŞİM
-<div align="center">
-  <a href="https://instagram.com/ensraklcl">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.com/users/xfexklcl">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://x.com/xfexklcl">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-</div>
-
 ## 🛠️ KULLANDIĞIM DİLLER
 
 <div align="center">
