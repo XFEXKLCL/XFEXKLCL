@@ -1,5 +1,4 @@
-# SELAM HERKEZE
-
+[b][url=https://linktr.ee/XFEXKLCL]Linktr.ee[/url][/b]
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F70045&center=true&vCenter=true&width=600&lines=Water+is+beautiful;Rem+is+water;Therefore%2C+Rem+is+beautiful" alt="Typing SVG" />
 </div>
@@ -11,10 +10,7 @@
 
 ## 🌟 BEN
 
-- 🎮 Bazı Oyunlara **Türkçe yamalar** yapıyorum
-- 🔧 **Python, C++ ve CSS** kullanıyorum  
-- 💬 **Anime ve oyun yamaları** hakkında benimle konuşabilirsiniz
-- ⚡ **KonoSuba, Re:ZERO, ClassRoom Of The Elite ve Star VS. The Forces Evil** hayranıyım
+- 💗 **KonoSuba, Re:ZERO, ClassRoom Of The Elite ve Star VS. The Forces Evil**
 
 ## 🛠️ KULLANDIĞIM DİLLER
 
