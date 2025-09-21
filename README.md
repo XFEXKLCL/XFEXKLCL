@@ -1,4 +1,4 @@
-**linktr.ee/XFEXKLCL**
+**https://linktr.ee/XFEXKLCL**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/aa8dcfcd-4a93-4073-a9ed-b7e9b0d4e585" width="400"/>
