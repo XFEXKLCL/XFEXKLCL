@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile-peach-phiurecad.vercel.app/api/view?uid=fozqo7228uak3x7oizmo2r0d4&cover_image=true&theme=novatorem&show_offline=false&bar_color=3b82f6&bar_color_cover=false)](https://spotify-github-profile-peach-phiurecad.vercel.app/api/view?uid=fozqo7228uak3x7oizmo2r0d4&redirect=true)
+39d9e90b453342bfa3a2d167bb82a99d
 
 **https://guns.lol/xfexklcl** ![50681850-f554-49da-b763-cbe65e3e5251_169723c2-d5ae-4a8a-9923-cdc40bfd65ec-MEGUMIN](https://github.com/user-attachments/assets/c94a0889-3188-4d89-8678-a7cc9bd11854)
 
