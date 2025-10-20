@@ -1,4 +1,4 @@
-**[Guns.lol](https://guns.lol/XFEXKLCL)**
+**[https://i.imgur.com/NADbRif.gif](https://guns.lol/XFEXKLCL)**
 
 **[Linktr.ee](https://linktr.ee/XFEXKLCL)**
 
