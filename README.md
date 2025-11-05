@@ -1,3 +1,8 @@
-![GIF](https://i.imgur.com/NADbRif.gif) ![GIF](https://i.imgur.com/zAwqAhW.gif)
+![GIF](https://i.imgur.com/NADbRif.gif) ![GIF](https://i.imgur.com/zAwqAhW.gif) ![GIF]([https://i.imgur.com/zAwqAhW.gif](https://i.imgur.com/ehPWw3C.gif))
 
-💗 **KonoSuba, Re:ZERO, ClassRoom Of The Elite ve Star VS. The Forces Evil**
+💗
+**Re:Zero
+My Teen Romantic Comedy SNAFU!
+Star Vs. The Forces Evil
+ClassRoom Of The Elite
+Konosuba**
