@@ -5,14 +5,14 @@
 ![GIF](https://i.imgur.com/zAwqAhW.gif) 
 
 
-💗
+**💗**
 
-**Re:Zero
+**Re:Zero**
 
-My Teen Romantic Comedy SNAFU!
+**My Teen Romantic Comedy SNAFU!**
 
-Star Vs. The Forces Evil
+**Star Vs. The Forces Evil**
 
-ClassRoom Of The Elite
+**ClassRoom Of The Elite**
 
-Konosuba**
+**Konosuba**
