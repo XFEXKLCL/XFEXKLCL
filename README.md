@@ -3,7 +3,7 @@
 ![GIF](https://i.imgur.com/ehPWw3C.gif)
 
 
-**💗** = **Re:Zero** **My Teen Romantic Comedy SNAFU!** **If My Heart Had Wings** 
+**💗** = **Re:Zero** | **Oregariu** | **If My Heart Had Wings** 
 
 **DDLC**
 
