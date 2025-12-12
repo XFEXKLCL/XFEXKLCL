@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://guns.lol/XFEXKLCL">
-    <span style="color:orange; font-size:20px; font-weight:bold;">guns.lol</span>
+    <font color="orange"><b>guns.lol</b></font>
   </a>
 </p>
 
