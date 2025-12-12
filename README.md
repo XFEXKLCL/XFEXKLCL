@@ -11,3 +11,4 @@
 **Horimiya**
 **Konosuba**
 **Omori**
+![Bio Görseli](https://imgur.com/a/2zGDe7M)
