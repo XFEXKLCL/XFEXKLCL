@@ -12,12 +12,5 @@
     <img src="https://i.imgur.com/0D8aQuR.png" alt="YAHALLO!" width="300"/>
   </a>
 </p>
-**💗** = **Re:Zero** | **Oregariu** | **If My Heart Had Wings** 
 
-**DDLC**
-**Star Vs. The Forces Evil**
-**ClassRoom Of The Elite**
-**Horimiya**
-**Konosuba**
-**Omori**
 ![Oregariu](https://i.imgur.com/O4SNZk3.png)
