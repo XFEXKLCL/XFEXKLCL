@@ -1,7 +1,7 @@
 ![Hello There](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=YAHALLO!🍪&fontSize=100)
 
 <p align="center">
-  <img src="https://i.imgur.com/0D8aQuR.png" alt="YAHALLO!" width="200"/>
+  <img src="https://i.imgur.com/0D8aQuR.png" alt="YAHALLO!" width="300"/>
 </p>
 
 **💗** = **Re:Zero** | **Oregariu** | **If My Heart Had Wings** 
