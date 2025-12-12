@@ -1,4 +1,4 @@
-![Hello There](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=500&section=header&text=YAHALLO!🍪)
+![Hello There](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=500&section=header&text=YAHALLO!🍪&fontSize=100)
 
 ![YAHALLO!](https://i.imgur.com/0D8aQuR.png)
 
