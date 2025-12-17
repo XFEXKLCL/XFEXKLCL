@@ -1,8 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=YAHALLO!👋&fontSize=100" alt="Hello There"/>
 
-[guns.lol/XFEXKLCL](https://guns.lol/XFEXKLCL)
+<div align="center">
 
+**[![guns.lol](https://img.shields.io/badge/guns.lol-XFEXKLCL-orange?style=for-the-badge)](https://guns.lol/XFEXKLCL)**
+
+</div>
 <p align="center">
   <a href="https://guns.lol/XFEXKLCL">
     <img src="https://i.imgur.com/0D8aQuR.png" alt="YAHALLO!" width="300"/>
