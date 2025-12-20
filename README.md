@@ -5,7 +5,7 @@
 </div>
 <p align="center">
   <a href="https://guns.lol/XFEXKLCL">
-    <img src="https://i.imgur.com/0D8aQuR.png" alt="YAHALLO!" width="100"/>
+    <img src="https://i.imgur.com/0D8aQuR.png" alt="YAHALLO!" width="200"/>
   </a>
 </p>
 
