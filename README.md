@@ -1,11 +1,11 @@
 <div align="center">
 
-**[![guns.lol](https://img.shields.io/badge/guns.lol-XFEXKLCL-orange?style=for-the-badge)](https://guns.lol/XFEXKLCL)**
+**[![guns.lol/XFEXKLCL]](https://guns.lol/XFEXKLCL)**
 
 </div>
 <p align="center">
   <a href="https://guns.lol/XFEXKLCL">
-    <img src="https://i.imgur.com/0D8aQuR.png" alt="YAHALLO!" width="300"/>
+    <img src="https://i.imgur.com/0D8aQuR.png" alt="YAHALLO!" width="50"/>
   </a>
 </p>
 
