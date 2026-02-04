@@ -1,2 +1,2 @@
 <p align="center">
-href="https://guns.lol/XFEXKLCL
+https://guns.lol/XFEXKLCL
