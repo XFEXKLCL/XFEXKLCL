@@ -1,2 +1,2 @@
-<p align="center">
+align="center">
 https://guns.lol/XFEXKLCL
