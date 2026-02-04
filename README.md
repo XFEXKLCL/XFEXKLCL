@@ -1,3 +1,3 @@
 <p align="center">
-  https://guns.lol/XFEXKLCL
+  <a href="https://guns.lol/XFEXKLCL">guns.lol</a>
 </p>
