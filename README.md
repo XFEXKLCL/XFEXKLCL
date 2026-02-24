@@ -1,1 +1,1 @@
-🔗 [guns.lol/XFEXKLCL](https://guns.lol/XFEXKLCL)
+  [guns.lol/XFEXKLCL](https://guns.lol/XFEXKLCL)
